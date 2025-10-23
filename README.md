@@ -80,7 +80,3 @@ MIT License
 📞 Contact
 
 If you have any questions or feedback, you can reach out to the project maintainer at ChavezData or via GitHub.
-
-⸻
-
-Feel free to modify the sections, adjust to reflect exactly the dataset and analyses you performed in Healthcare.ipynb. If you’d like, I can also generate a badge, table of contents, or detailed usage examples. Would you like me to add that?
